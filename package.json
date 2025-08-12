@@ -1,0 +1,27 @@
+{
+  "name": "prueba-backend",
+  "version": "1.0.0",
+  "description": "Repositorio de prueba con VS Code",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinCaudana/prueba-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinCaudana/prueba-backend/issues"
+  },
+  "homepage": "https://github.com/ValentinCaudana/prueba-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
